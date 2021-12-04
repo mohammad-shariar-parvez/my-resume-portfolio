@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"name": "BD Headphones Hub",
+		"intro1": "■ Single page React web application which is focused on a Niche website (single product category selling website)",
+		"intro2": "■ Fully responsive . User , admin both can be able to interact.",
+		"intro3": "■ Customers can create accounts , login ,buy products,review etc .Beside admin has full access with database .",
+		"techno": "Javascript , React, Bootstrap, ExpressJS, Heroku deploy, firebase, React router, Node, Mongodb",
+		"live": "https://bd-headphones-hub.web.app/",
+		"client": " https://github.com/Piaowei/bd-headphones-hub-client-side",
+		"server": "https://github.com/Piaowei/bd-headphones-hub-client-side",
+		"img0": "https://i.ibb.co/Yfjn0Z3/a0.jpg",
+		"img1": "https://i.ibb.co/Cv6QSvz/a1.jpg",
+		"img2": "https://i.ibb.co/xm6h89f/a2.jpg",
+		"img3": "https://i.ibb.co/Wcsf7V4/a3.jpg"
+	},
+	{
+		"id": 2,
+		"name": "BD-China Travel Service  ",
+		"intro1": "■ Website purpose is to provide A-Z guidance to travel China from Bangladesh.",
+		"intro2": "■ Firebase authentication If a user is logged in, he/she will see more options like My Orders, Manage All Orders.",
+		"intro3": "■ Stored user information in mongodb database .",
+		"techno": "Javascript , React, Bootstrap,ExpressJS,Heroku deploy, firebase, React router, Node, Mongodb",
+		"live": "https://bd-china-travel-service.web.app/",
+		"client": " https://github.com/Piaowei/bd-china-tavel-service-client-side",
+		"server": "https://github.com/Piaowei/bd-china-tavel-service-server-side",
+		"img0": "https://i.ibb.co/VHhFygZ/a0.jpg",
+		"img1": "https://i.ibb.co/BGWnVvh/a1.jpg",
+		"img2": "https://i.ibb.co/CVwQr14/a2.jpg",
+		"img3": "https://i.ibb.co/HpDn68S/a3.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Sunrise Eye Care   ",
+		"intro1": "■ Frontend based healthcare related website using React, firebase, react router,",
+		"intro2": "■ Email and password  Authentication. Users will be able to i Register and  login . ",
+		"intro3": "■ Once a user is logged in, the user name, logout button should appear on the header .",
+		"techno": "Javascript , React, Bootstrap,ExpressJS, firebase, React router., Mongodb",
+		"live": "https://sunrise-eye-care-by-parvez.web.app/",
+		"client": " https://github.com/Piaowei/sunrise-eye-care",
+		"img0": "https://i.ibb.co/G3vmsCv/a0.jpg",
+		"img1": "https://i.ibb.co/dr1y7yw/a1.jpg",
+		"img2": "https://i.ibb.co/PNDmChk/a2.jpg",
+		"img3": "https://i.ibb.co/JmB995M/a3.jpg"
+	}
+]
